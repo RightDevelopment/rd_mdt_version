@@ -1,2 +1,2 @@
 # rd_mdt_version
-version checker
+1.0
